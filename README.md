@@ -55,7 +55,12 @@ By using this Bot, you agree that you hold responsibility and accountability of 
 - Enable all instances in the "Bot" tab
 - Invite your bot using this [invite](https://discord.com/api/oauth2/authorize?client_id=CLIENTID&permissions=8&scope=applications.commands%20bot) (replace CLIENTID by the ID of your Bot)
 
-#### 1st・Installation
+#### 1st Option ・Installation
 ```
 Launch the Bot_Builder.exe and Bot_BuilderIT.exe file. A new file will be created. You will only have to launch it. 
+```
+
+#### 2nd Option・Installation
+```
+Launch the Bot_Builder.bat and Bot_BuilderIT.bat file. A new file will be created. You will only have to launch it. 
 ```
