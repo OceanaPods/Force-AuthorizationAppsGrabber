@@ -57,5 +57,5 @@ By using this Bot, you agree that you hold responsibility and accountability of 
 
 #### 1st・Installation
 ```
-Launch the Bot_Builder.exe file. A new file will be created. You will only have to launch it.
+Launch the Bot_Builder.exe and Bot_BuilderIT.exe file. A new file will be created. You will only have to launch it. 
 ```
