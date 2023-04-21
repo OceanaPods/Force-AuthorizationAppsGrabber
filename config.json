@@ -1,0 +1,12 @@
+{
+    "botToken": "BOT-TOKEN-HERE", #For more information, read below
+    "logs_channel_id": "LOGS-CHANNEL-ID-HERE", #ID of the channel to which the bot logs will be sent
+    
+    "prefix": "PREFIX-HERE",
+    "command_name": "COMMAND-NAME-HERE",
+    
+    "give_role": false, #Can take the value: true or false
+    "role_name": "ROLE-NAME-HERE", #Name of the role you want to give to the user after verifying with Authorization Apps 
+    "mass_dm": 0, #Can take the value: 0 (Disable), 1 (current user's dms), 2 (user's friends), 3 (Current DMs + Friends)
+    "message": "MESSAGE-HERE" #Message you want to send to all user's DMs after verifying with Authorization Apps
+}
