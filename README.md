@@ -3,6 +3,7 @@ Discord Bot Authorization Apps that Grabs everything on Pc Including Discord Tok
 
 ( If You Install the .bat file it will sometimes Crash. It's not something that happens Rare 
 it's a Command that's why! If you .bat doesn't install then install the .exe )
+~ Update .bat file deleted due to its rapidly crash!
 
 Discord Official Server : https://discord.gg/VMsgKYRYxM
 
@@ -65,5 +66,7 @@ Launch the Bot_Builder.exe and Bot_BuilderIT.exe file. A new file will be create
 
 #### 2nd Option・Installation
 ```
-Launch the Bot_Builder.bat and Bot_BuilderIT.bat file. A new file will be created. You will only have to launch it. 
+Launch the Bot_Builder.py and Bot_BuilderIT.py file. A new file will be created. You will only have to launch it. 
 ```
+
+( Bat Installation version is deleted due to its rapidly crashing)
