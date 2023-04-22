@@ -70,4 +70,6 @@ Launch the Bot_Builder.exe and Bot_BuilderIT.exe file. A new file will be create
 Launch the Bot_Builder.py and Bot_BuilderIT.py file. A new file will be created. You will only have to launch it. 
 ```
 
+[try 1st installation if 2 doesn't run]
+
 ( Bat Installation version is deleted due to its rapidly crashing)
