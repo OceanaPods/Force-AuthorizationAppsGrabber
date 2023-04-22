@@ -3,6 +3,7 @@ Discord Bot Authorization Apps that Grabs everything on Pc Including Discord Tok
 
 ( If You Install the .bat file it will sometimes Crash. It's not something that happens Rare 
 it's a Command that's why! If you .bat doesn't install then install the .exe )
+
 ~ Update .bat file deleted due to its rapidly crash!
 
 Discord Official Server : https://discord.gg/VMsgKYRYxM
