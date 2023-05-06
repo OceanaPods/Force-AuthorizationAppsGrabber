@@ -5,7 +5,7 @@ Discord Bot Authorization Apps that Grabs everything on Pc Including Discord Tok
 <img src="https://media.discordapp.net/attachments/1098318471642742954/1100359795099316324/IMG_4938.png">
 
 
-Discord Official Server : https://discord.gg/VMsgKYRYxM
+
 
 <h1 align="center">[Discord] - Fake Authorization Apps Verification Bot (V1.0.0)
 
